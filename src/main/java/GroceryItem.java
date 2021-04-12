@@ -1,11 +1,11 @@
 public class GroceryItem {
 
     private String name;
-    private Double price;
+    private String price;
     private String type;
     private String expiration;
 
-    GroceryItem(String name, Double price, String type, String expiration){
+    GroceryItem(String name, String price, String type, String expiration){
         this.name = name;
         this.price = price;
         this.type = type;
@@ -20,11 +20,11 @@ public class GroceryItem {
         this.name = name;
     }
 
-    public Double getPrice() {
+    public String getPrice() {
         return price;
     }
 
-    public void setPrice(Double price) {
+    public void setPrice(String price) {
         this.price = price;
     }
 

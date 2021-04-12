@@ -14,7 +14,7 @@ NAMe:BrEAD; price:1.23; type:Food@ expiration:2/25/2016##
 NAMe:BrEAD; price:1.23; type:Food; expiration:1/25/2016##
 
 naMe:Cookies; price:2.25; type:Food% expiration:1/25/2016##
-naMe:CoOkieS; price:2.25; type:Food* xpiration:1/25/2016##
+naMe:CoOkieS; price:2.25; type:Food* expiration:1/25/2016##
 naMe:COokIes; price:2.25; type:Food; expiration:3/22/2016##
 naMe:COOkieS; price:2.25; type:Food; expiration:1/25/2016##
 naMe:Cookies; price:2.25; type:Food; expiration:1/25/2016##
